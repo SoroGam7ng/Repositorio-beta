@@ -1,7 +1,7 @@
 # Repositorio-beta
 
 1. `git clone https://github.com/SoroGam7ng/Repositorio-beta.git` (Clonamos el repositorio en el ordenador)
-2. `cd calculadora-git` (Entramos en la carpeta del proyecto)
+2. (Entramos en la carpeta del proyecto, en nuestro caso manualmente desde VSC)
 3. `git branch frontend` (Creamos la rama para el HTML)
 4. `git branch backend` (Creamos la rama para el Java)
 5. `git checkout frontend` (Cambiamos a la rama frontend)
